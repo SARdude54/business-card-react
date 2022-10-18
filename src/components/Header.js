@@ -9,7 +9,7 @@ export default function() {
             <h4>Software Engineer</h4>
 
             <div className="buttons">
-                <button className="linkedin">LinkedIn</button>
+                <button className="linkedin"><a href="#" class="fa fa-linkedin" id="linkedin"></a> LinkedIn</button>
             </div>
         </header>
     )
